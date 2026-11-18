@@ -1,6 +1,6 @@
 # Política de privacidad de Transcriptor
 
-Última actualización: 25 de octubre de 2026.
+Última actualización: 18 de noviembre de 2026.
 
 Transcriptor («Transcriptor sin Internet» en la App Store y «Transcriptor offline» en Google Play)
 es una app de IMMOACTIVAT I ASSOCIATS SL (en Google Play, SafeDevsBWT) para grabar, transcribir y
@@ -23,9 +23,26 @@ fallos y estadísticas de uso que no te identifican.
 - Transcribir, separar a los hablantes y resumir se hace en el propio dispositivo. Los resúmenes
   los hace el modelo de Apple Intelligence que funciona en él y, en Android, Gemma, un modelo de
   Google que la app descarga cuando lo pides.
-- Solo salen de tu dispositivo cuando tú las compartes o las exportas, al destino que elijas. Las
-  citas que añades a tu calendario las guarda tu app de calendario.
-- Al borrar una nota, o la app, se borran.
+- Solo salen de tu dispositivo cuando tú las compartes o las exportas, al destino que elijas, o
+  cuando las sincronizas con tu iCloud (ver más abajo). Las citas que añades a tu calendario las
+  guarda tu app de calendario.
+- Al borrar una nota, se borra; si las sincronizas, también de iCloud y de tus otros
+  dispositivos. Al borrar la app, se borran las de ese dispositivo.
+
+## Sincronizar con iCloud
+
+En el iPhone y en el Mac, con Transcriptor Pro, puedes tener tus notas en todos tus dispositivos
+con la misma cuenta de iCloud. Está apagado hasta que enciendes «Sincronizar con iCloud» en los
+ajustes de la app.
+
+- Si lo enciendes, tus notas (el título, la carpeta, la transcripción, los nombres de los
+  hablantes, el resumen, la traducción y el audio) se guardan en la base de datos privada de tu
+  cuenta de iCloud, con CloudKit de Apple. Apple las guarda cifradas, según sus condiciones y su
+  política de privacidad, y ocupan espacio de tu iCloud.
+- Nosotros no podemos verlas: esa base de datos solo la puede leer tu cuenta de iCloud.
+- Si lo apagas, cada dispositivo se queda con sus notas, y la copia de iCloud se queda para los
+  demás. Para borrarla, borra los datos de Transcriptor en la gestión del almacenamiento de iCloud,
+  en los ajustes de tu dispositivo.
 
 ## Conexiones a internet
 
@@ -53,7 +70,8 @@ Si grabas a otras personas, avísales antes: puede que la ley te lo exija.
 ## Tus derechos
 
 Como no guardamos ningún dato tuyo, no hay nada que consultar, corregir ni borrar de nuestro lado.
-Para cualquier duda, escríbenos a info@axivor.es.
+La copia de iCloud, si sincronizas tus notas, la gestionas tú con tu cuenta de Apple. Para
+cualquier duda, escríbenos a info@axivor.es.
 
 ## Cambios
 
